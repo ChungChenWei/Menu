@@ -333,11 +333,11 @@ int Order(int first)
 					switch(d2)
 					{
     		         case 75://ек 
-    		         	 cout<<drink<<" ек\n";
+    		         	 //cout<<drink<<" ек\n";
 						 drink--;
 						 break;
      		         case 77://еk 
-     		        	 cout<<drink<<" еk\n";
+     		        	 //cout<<drink<<" еk\n";
 						 drink++;
 						 break;
 					}
